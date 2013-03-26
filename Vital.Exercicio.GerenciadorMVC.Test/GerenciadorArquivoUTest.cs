@@ -8,5 +8,6 @@ namespace Vital.Exercicio.GerenciadorMVC.Test
 {
     public class GerenciadorArquivoUTest
     {
+
     }
 }

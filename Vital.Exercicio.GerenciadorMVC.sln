@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vital.Exercicio.GerenciadorMVC", "Vital.Exercicio.GerenciadorMVC\Vital.Exercicio.GerenciadorMVC.csproj", "{0A5FD6C5-CF43-494E-B808-5F8BB97E5BAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vital.Exercicio.GerenciadorMVC.Test", "Vital.Exercicio.GerenciadorMVC.Test\Vital.Exercicio.GerenciadorMVC.Test.csproj", "{F312564C-0F74-442C-9467-AC31E341AAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vital.Exercicio.GereciadorMVC.Taceitacao", "Vital.Exercicio.GereciadorMVC.Taceitacao\Vital.Exercicio.GereciadorMVC.Taceitacao.csproj", "{A7551556-3313-4742-9DF8-141C703C1620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{0A5FD6C5-CF43-494E-B808-5F8BB97E5BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A5FD6C5-CF43-494E-B808-5F8BB97E5BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A5FD6C5-CF43-494E-B808-5F8BB97E5BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F312564C-0F74-442C-9467-AC31E341AAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F312564C-0F74-442C-9467-AC31E341AAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F312564C-0F74-442C-9467-AC31E341AAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F312564C-0F74-442C-9467-AC31E341AAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7551556-3313-4742-9DF8-141C703C1620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7551556-3313-4742-9DF8-141C703C1620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7551556-3313-4742-9DF8-141C703C1620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7551556-3313-4742-9DF8-141C703C1620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
